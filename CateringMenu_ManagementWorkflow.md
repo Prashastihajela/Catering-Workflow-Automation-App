@@ -31,9 +31,9 @@ The Real-Time Menu Change Process enables catering managers to update menu items
     9. **Users See Real-Time Updates:** Employees or customers see the modified menu in real time.
     10. **Process Ends**
 
-![Real-Time Menu Change Workflow.png](Catering%20Menu%20Management%20Workflow/Real-Time_Menu_Change_Workflow.png)
+![Real-Time Menu Change Workflow.png](Media/Images/Real-Time_Menu_Change_Workflow.png)
 
-[Real-time menu change.mp4](Catering%20Menu%20Management%20Workflow/Real-time_menu_change.mp4)
+[Real-time menu change.mp4](Media/Videos/Real-time_menu_change.mp4)
 
 ### Future Enhancements:
 
