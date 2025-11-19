@@ -2,16 +2,16 @@
 
 (***Built with PowerApps and SharePoint***)
 
-[**Overview**](Overview.md)
+[**Overview**](Documentation/Overview.md)
 
 
-[**Technical Architecture**](Technical_Architecture.md)
+[**Technical Architecture**](Documentation/Technical_Architecture.md)
 
-[**Business Requirements & Process Design**](BusinessRequirements_and_ProcessDesign.md)
+[**Business Requirements & Process Design**](Documentation/BusinessRequirements_and_ProcessDesign.md)
 
-[Technical Documentation](Technical_Documentation.md)
+[Technical Documentation](Documentation/Technical_Documentation.md)
 
-[References](References.md)
+[References](Documentation/References.md)
 
 <aside>
 
