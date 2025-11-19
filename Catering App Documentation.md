@@ -19,15 +19,15 @@
     
     *Curious how the Catering App works ? See It in Action – Click on link below to jump to the Videos*
     
-    [Menu-to-FormWorkflow.mp4] (Media/Videos/Menu-to-FormWorkflow.mp4)
+    [Menu-to-FormWorkflow.mp4](Media/Videos/Menu-to-FormWorkflow.mp4)
     
-    [Real-time menu change.mp4] (Media/Videos/Real-time_menu_change.mp4) 
+    [Real-time menu change.mp4](Media/Videos/Real-time_menu_change.mp4) 
     
-    [Form-to-MenuWorkflow.mp4] (Media/Videos/Form-to-MenuWorkflow.mp4)
+    [Form-to-MenuWorkflow.mp4](Media/Videos/Form-to-MenuWorkflow.mp4)
   
-    [SharePoint site for advertising.mp4] (Media/Videos/SharePoint_site_for_advertising.mp4)
+    [SharePoint site for advertising.mp4](Media/Videos/SharePoint_site_for_advertising.mp4)
   
-    [Sharepoint Team site tour.mp4] (Media/Videos/Sharepoint_Team_site_tour.mp4)
+    [Sharepoint Team site tour.mp4](Media/Videos/Sharepoint_Team_site_tour.mp4)
     
 </aside>
 
