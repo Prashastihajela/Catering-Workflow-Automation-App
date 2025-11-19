@@ -14,7 +14,7 @@ The purpose of this tour is to demonstrate:
 
 **Navigation & User Experience** – How users can quickly find resources.
 
-[Sharepoint Team site tour.mp4](Media/Videos/Sharepoint_Team_site_tour.mp4)
+[Sharepoint Team site tour.mp4](../Media/Videos/Sharepoint_Team_site_tour.mp4)
 
 ### 🔹**Key Features Demonstrated in the Video:**
 
