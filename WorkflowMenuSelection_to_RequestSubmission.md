@@ -43,7 +43,7 @@ This workflow illustrates the step-by-step process of how a user selects items f
 
 ![Menu to Form Submission Workflow.png](Media/Videos/Menu_to_Form_Submission_Workflow.png)
 
-[Menu-to-FormWorkflow.mp4][Play][Watch Video](Media/Videos/Menu-to-FormWorkflow.mp4)
+[Menu-to-FormWorkflow.mp4][Watch Video](Media/Videos/Menu-to-FormWorkflow.mp4)
 
 <aside>
 
