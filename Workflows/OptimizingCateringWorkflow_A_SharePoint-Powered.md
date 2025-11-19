@@ -20,4 +20,4 @@ The goal of the SharePoint site is to streamline catering requests, provide team
 - Better collaboration through centralized information.
 - Controlled announcements to reduce miscommunication & improve transparency.
 
-[Sharepoint Team site tour.mp4](Media/Videos/Sharepoint_Team_site_tour.mp4)
+[Sharepoint Team site tour.mp4](../Media/Videos/Sharepoint_Team_site_tour.mp4)
