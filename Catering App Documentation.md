@@ -19,15 +19,15 @@
     
     *Curious how the Catering App works ? See It in Action – Click on link below to jump to the Videos*
     
-    [Menu-to-FormWorkflow.mp4](Catering%20App%20Documentation/Business%20Requirements%20&%20Process%20Design/Workflow%20Menu%20Selection%20to%20Request%20Submission%201a43ea635259806781d9c26f607a7159.md) 
+    [Menu-to-FormWorkflow.mp4] (Media/Videos/Menu-to-FormWorkflow.mp4)
     
-    [Real-time menu change.mp4](Catering%20App%20Documentation/Business%20Requirements%20&%20Process%20Design/Catering%20Menu%20Management%20Workflow%201a43ea6352598033a4a8f7c30fc70e87.md) 
+    [Real-time menu change.mp4] (Media/Videos/Real-time_menu_change.mp4) 
     
-    [Form-to-MenuWorkflow.mp4](Catering%20App%20Documentation/Business%20Requirements%20&%20Process%20Design/Workflow%20Catering%20Event%20Booking%20&%20Submission%20Proce%201a53ea63525980d4b1f2cd343196fd65.md) 
-    
-    [SharePoint site for advertising.mp4](Catering%20App%20Documentation/Business%20Requirements%20&%20Process%20Design/Marketing%20&%20Promotion%20via%20SharePoint%20Team%20site%201a53ea635259800eb7c9ffed839e67ca.md) 
-    
-    [Sharepoint Team site tour.mp4](Catering%20App%20Documentation/Business%20Requirements%20&%20Process%20Design/Optimizing%20Catering%20Workflow%20A%20SharePoint-Powered%20%201a63ea635259809e8e5efb7c41db788e.md) 
+    [Form-to-MenuWorkflow.mp4] (Media/Videos/Form-to-MenuWorkflow.mp4)
+  
+    [SharePoint site for advertising.mp4] (Media/Videos/SharePoint_site_for_advertising.mp4)
+  
+    [Sharepoint Team site tour.mp4] (Media/Videos/Sharepoint_Team_site_tour.mp4)
     
 </aside>
 
