@@ -62,6 +62,6 @@ This workflow illustrates the step-by-step process of how a user selects items f
 
 <aside>
 
-*A refreshed interface with a structured layout, left-side navigation, and dynamic personalization—making catering reservations smoother than ever.*
+*A refreshed interface with a structured layout, left-side navigation, and dynamic personalization, making catering reservations smoother.*
 
 </aside>
