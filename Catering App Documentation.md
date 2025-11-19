@@ -7,9 +7,9 @@
 
 [**Technical Architecture**](Technical_Architecture.md)
 
-[**Business Requirements & Process Design**](Business Requirements & Process Design.md)
+[**Business Requirements & Process Design**](BusinessRequirements_and_ProcessDesign.md)
 
-[Technical Documentation](Technical Architecture.md)
+[Technical Documentation](Technical_Documentation.md)
 
 [References](References.md)
 
