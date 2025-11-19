@@ -38,9 +38,9 @@ This process ensures that only authorized managers can update advertisements or 
     9. **System Updates Page Automatically** – The system automatically updates the page with the new advertisement.
     10. **Process Ends (Success)** – The process completes successfully.
 
-![SharePoint Page Update & Republishing Process.png](Marketing%20&%20Promotion%20via%20SharePoint%20Team%20site/SharePoint_Page_Update__Republishing_Process.png)
+![SharePoint Page Update & Republishing Process.png](Media/Images/SharePoint_Page_Update__Republishing_Process.png)
 
-[SharePoint site for advertising.mp4](Marketing%20&%20Promotion%20via%20SharePoint%20Team%20site/SharePoint_site_for_advertising.mp4)
+[SharePoint site for advertising.mp4](Media/Videos/SharePoint_site_for_advertising.mp4)
 
 ### **Future Enhancement:**
 
