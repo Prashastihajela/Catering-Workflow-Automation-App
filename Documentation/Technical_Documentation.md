@@ -25,15 +25,15 @@ I used PowerDocu to generate a structured documentation for my Catering App, ens
 
 ### **Screenshots**
 
-![Screenshot_1.png](Media/Images/Screenshot_1.png)
+![Screenshot_1.png](../Media/Images/Screenshot_1.png)
 
-![Screenshot_2.png](Media/Images/Screenshot_2.png)
+![Screenshot_2.png](../Media/Images/Screenshot_2.png)
 
-![Screenshot_3.png](Media/Images/Screenshot_3.png)
+![Screenshot_3.png](../Media/Images/Screenshot_3.png)
 
-![Screenshot_4.png](Media/Images/Screenshot_4.png)
+![Screenshot_4.png](../Media/Images/Screenshot_4.png)
 
-![Screenshot_5.png](Media/Images/Screenshot_5.png)
+![Screenshot_5.png](../Media/Images/Screenshot_5.png)
 
 ***For full documentation details, feel free to contact me.***
 
