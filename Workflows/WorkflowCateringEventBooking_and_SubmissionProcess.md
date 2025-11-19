@@ -35,6 +35,6 @@ The catering request process begins when a user accesses the SharePoint team sit
     9. **Process Ends**
         - The process is completed successfully.
 
-![Catering Event Booking & Submission Process.png](Media/Images/Catering_Event_Booking__Submission_Process.png)
+![Catering Event Booking & Submission Process.png](../Media/Images/Catering_Event_Booking__Submission_Process.png)
 
-[Form-to-MenuWorkflow.mp4](Media/Videos/Form-to-MenuWorkflow.mp4)
+[Form-to-MenuWorkflow.mp4](../Media/Videos/Form-to-MenuWorkflow.mp4)
