@@ -10,9 +10,9 @@
 
 - **SharePoint** Used to retrieve and update items in the SharePoint lists.
     
-    [**Demonstration of SharePoint integration** with Power Apps](Demonstration_SharePoint_integration_with_PowerApp.md)
+    [**Demonstration of SharePoint integration** with Power Apps](Workflows/Demonstration_SharePoint_integration_with_PowerApp.md)
     
-    [Demonstrating how Power Apps captures menu data and stores it in SharePoint](Demonstrating_PowerApps_capturing_menu_data.md)
+    [Demonstrating how Power Apps captures menu data and stores it in SharePoint](Workflows/Demonstrating_PowerApps_capturing_menu_data.md)
     
 - **Office 365 Users** used for retrieving user information (e.g., name, email) within the Power Apps environment.
 
