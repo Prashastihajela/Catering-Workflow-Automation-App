@@ -41,12 +41,12 @@ This workflow illustrates the step-by-step process of how a user selects items f
     **End Event:** A confirmation message is displayed, informing the user that the form has been successfully submitted.
     
 
-![Menu to Form Submission Workflow.png](Menu_to_Form_Submission_Workflow.png)
+![Menu to Form Submission Workflow.png](Media/Videos/Menu_to_Form_Submission_Workflow.png)
 
-[Menu-to-FormWorkflow.mp4][Play](Media/Videos/Menu-to-FormWorkflow.mp4)
+[Menu-to-FormWorkflow.mp4][Play][Watch Video](Media/Videos/Menu-to-FormWorkflow.mp4)
 
 <aside>
-💡
+
 
 ### Home Page Upgrade – Smarter Navigation & Personalization
 
