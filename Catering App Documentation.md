@@ -2,7 +2,7 @@
 
 (***Built with PowerApps and SharePoint***)
 
-[**Overview**](Catering%20App%20Documentation/Overview%201803ea635259806fa96ef2a266cdb18d.md)
+[**Overview**](Catering%20App%20Documentation/Overview%.md)
 
 [**Technical Architecture**](Catering%20App%20Documentation/Technical%20Architecture%201803ea6352598054966bc4698fe48656.md)
 
