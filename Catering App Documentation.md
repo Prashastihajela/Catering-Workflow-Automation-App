@@ -5,7 +5,7 @@
 [**Overview**](Overview.md)
 
 
-[**Technical Architecture**](Technical Architecture.md)
+[**Technical Architecture**](Technical_Architecture.md)
 
 [**Business Requirements & Process Design**](Business Requirements & Process Design.md)
 
