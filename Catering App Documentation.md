@@ -5,13 +5,13 @@
 [**Overview**](Overview.md)
 
 
-[**Technical Architecture**](../Technical Architecture.md)
+[**Technical Architecture**](Technical Architecture.md)
 
-[**Business Requirements & Process Design**](Catering%20App%20Documentation/Business%20Requirements%20&%20Process%20Design%201a43ea63525980a882fbfb4ba407534f.md)
+[**Business Requirements & Process Design**](Business Requirements & Process Design.md)
 
-[Technical Documentation](Catering%20App%20Documentation/Technical%20Documentation%201aa3ea6352598037900eef1722b376e1.md)
+[Technical Documentation](Technical Architecture.md)
 
-[References](Catering%20App%20Documentation/References%201a73ea63525980ba8fc6c33a5624ade6.md)
+[References](References.md)
 
 <aside>
 
