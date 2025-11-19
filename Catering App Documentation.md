@@ -2,9 +2,10 @@
 
 (***Built with PowerApps and SharePoint***)
 
-[**Overview**](Catering%20App%20Documentation/Overview.md)
+[**Overview**](../Overview.md)
 
-[**Technical Architecture**](Catering%20App%20Documentation/Technical%20Architecture%201803ea6352598054966bc4698fe48656.md)
+
+[**Technical Architecture**](../Technical Architecture.md)
 
 [**Business Requirements & Process Design**](Catering%20App%20Documentation/Business%20Requirements%20&%20Process%20Design%201a43ea63525980a882fbfb4ba407534f.md)
 
